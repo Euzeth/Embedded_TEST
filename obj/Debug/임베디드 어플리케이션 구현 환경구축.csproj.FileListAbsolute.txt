@@ -1,0 +1,10 @@
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\bin\Debug\임베디드 어플리케이션 구현 환경구축.exe.config
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\bin\Debug\임베디드 어플리케이션 구현 환경구축.exe
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\bin\Debug\임베디드 어플리케이션 구현 환경구축.pdb
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\obj\Debug\임베디드 어플리케이션 구현 환경구축.csproj.AssemblyReference.cache
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\obj\Debug\임베디드_어플리케이션_구현_환경구축.Form1.resources
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\obj\Debug\임베디드_어플리케이션_구현_환경구축.Properties.Resources.resources
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\obj\Debug\임베디드 어플리케이션 구현 환경구축.csproj.GenerateResource.cache
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\obj\Debug\임베디드 어플리케이션 구현 환경구축.csproj.CoreCompileInputs.cache
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\obj\Debug\임베디드 어플리케이션 구현 환경구축.exe
+C:\Users\ChiYeon\OneDrive\Desktop\01BASIC\임베디드 어플리케이션 구현 환경구축\obj\Debug\임베디드 어플리케이션 구현 환경구축.pdb
